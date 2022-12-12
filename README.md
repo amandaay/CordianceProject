@@ -7,7 +7,7 @@
 3. In RunTime tab, "Run All"
 
 # Project 
-Debra's Copy of Cordiance Project: First
+Debra's Copy of Cordiance Project: Improved Brute Force: Tree, non-stop and stop
 CordianceProject2.ipynb: final project result 
 
 # Final report
